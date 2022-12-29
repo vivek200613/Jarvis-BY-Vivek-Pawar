@@ -1,0 +1,2 @@
+a =  "vivek"
+print(a)
